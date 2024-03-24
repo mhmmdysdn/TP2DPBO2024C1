@@ -11,8 +11,8 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 3. Program ini akan menampilkan dialog/prompt error jika ada inputan NIM yang sama.
 
 ## Dokumentasi
-1. Tampilan Awal Program :
-   ![Tampilan Awal](https://github.com/mhmmdysdn/TP2DPBO2024C1/assets/119798315/14c9b4d7-a99a-458b-8f32-af92c17a0e62)\
+1. Tampilan Awal Program :  
+   ![Tampilan Awal](https://github.com/mhmmdysdn/TP2DPBO2024C1/assets/119798315/14c9b4d7-a99a-458b-8f32-af92c17a0e62)
    
 2. Insert Data :
    ![Insert](https://github.com/mhmmdysdn/TP2DPBO2024C1/assets/119798315/87d8b482-eedb-43b9-a168-c85099c5b76b)
